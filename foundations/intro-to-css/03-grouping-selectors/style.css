@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.prior 
+, .next{
+    font-family:Helvetica, 'Times New Roman', Times, sans-serif;
+    font-size: 28px;
+}
+.prior{
+    background-color: black;
+    color: aliceblue;
+}
+.next{
+    background-color: yellow;
+}
